@@ -3666,7 +3666,7 @@ i成都,http://wouu.net:9977/udp/239.93.1.104:1234
 达州新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dzxwzh_2000.m3u8
 大邑,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dyytH265_4000.m3u8
 德昌,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dcxw.m3u8
-高县综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxt_2.m3u8000
+高县综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/gxt_2000.m3u8
 青神综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qszh_2000.m3u8
 青白江综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8
 青川新闻综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8
