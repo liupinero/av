@@ -400,23 +400,24 @@ HBO,http://154.9.228.245:215/smt.php?id=Hbo
 HBO HD,http://154.9.228.245:215/smt.php?id=hbohd_twn
 HBO-HiTS,http://154.9.228.245:215/smt.php?id=hbohead_twn
 HBO-famiiy,http://154.9.228.245:215/smt.php?id=fyi_twn
-HBO-Signature,http://154.9.228.245:215/smt.php?id=Hbosignature_twn
+HBO-Signature,http://154.9.228.245:215/smt.php?id=hbosignature_twn
 CINEMAX,http://154.9.228.245:215/smt.php?id=cinemax_twn
 AXN,http://154.9.228.245:215/smt.php?id=axn_twn
 
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie
 东森洋片,https://bsex.serv00.net/Smart.php?id=ettvwestern
-美亚电影,https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
+美亚电影台,https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
 龙祥時代,https://bsex.serv00.net/Smart.php?id=cb7a1fec69
 龙华电影,https://bsex.serv00.net/Smart.php?id=xingwei_movie
 龙华洋片,https://bsex.serv00.net/Smart.php?id=lunghuawestern_twn
 纬来电影,https://bsex.serv00.net/Smart.php?id=videolandmovie
 好莱坞电影,https://bsex.serv00.net/Smart.php?id=hollywoodmovies_twn
+星空电影,https://bsex.serv00.net/Smart.php?id=starmovies_raj
 CINEMAX,https://bsex.serv00.net/Smart.php?id=cinemax_twn
 HBO HD,https://bsex.serv00.net/Smart.php?id=hbohd_twn
-HBO温馨家庭,https://bsex.serv00.net/Smart.php?id=fyi_twn
+HBO-famiiy,https://bsex.serv00.net/Smart.php?id=fyi_twn
 HBO-Hits,https://bsex.serv00.net/Smart.php?id=hbohead_twn
-HBO原創,https://bsex.serv00.net/Smart.php?id=hbosignature_twn
+HBO-Signature,https://bsex.serv00.net/Smart.php?id=hbosignature_twn
 AXN,https://bsex.serv00.net/Smart.php?id=axn_twn
 
 靖天电影台,http://37.27.111.214:8080/live/18/hls.m3u8
