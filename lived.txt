@@ -3673,6 +3673,7 @@ i成都,http://ayolee.com:5253/udp/239.93.1.104:1234
 彭山综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pszh_2000.m3u8
 新津电视台,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xjzh_4000.m3u8
 岳池,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ycxw_2000.m3u8
+古蔺新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8
 什邡县电视台,http://58.216.99.148:80/live2.rxip.sc96655.com/live/sfx_2000.m3u8
 新都综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8
 平昌新闻综合,http://58.216.99.148:80/live2.rxip.sc96655.com/live/pcxw_2000.m3u8
