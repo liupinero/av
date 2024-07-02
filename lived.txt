@@ -5478,6 +5478,21 @@ IHOT,#genre#
 爱奇迹,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.238:8722
 爱动漫,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.239:8736
 
+VNP 频道,#genre#
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+TVBS-NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+环宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+EF运通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+
 🌈 彩虹频道(已更新6.8)_6058,#genre#
 🔞яK TV HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33077
 🔞XY MIX HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2971
