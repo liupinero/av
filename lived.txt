@@ -5419,7 +5419,7 @@ IHOT,#genre#
 爱奇迹,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.238:8722
 爱动漫,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.239:8736
 
-V N P 频道,#genre#
+V P N 频道,#genre#
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
@@ -5515,7 +5515,7 @@ HBO-Signature,https://z02.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df4729
 探索頻道,https://z02.ubtvfans.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
 法國時裝,https://z02.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
 
-V N P 加密频道_2963,#genre#
+V P N 加密频道_2963,#genre#
 香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
 惊艳台,http://125.227.210.55:8156/VideoInput/play.ts
 
