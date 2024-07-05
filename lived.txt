@@ -5515,6 +5515,8 @@ HBO-Signature,https://z02.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df4729
 探索頻道,https://z02.ubtvfans.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
 法國時裝,https://z02.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
 
+V N P 加密频道_2963,#genre#
+
 🌈 彩虹频道(已更新6.8)_6058,#genre#
 🔞яK TV HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33077
 🔞XY MIX HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2971
