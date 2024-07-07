@@ -5443,6 +5443,8 @@ EF运通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 凤凰资讯,https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
 凤凰香港台,https://z02.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
 翡翠台,https://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+明珠台,https://z02.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
+J2,https://z02.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
 TVB 亞洲劇台,https://z02.ubtvfans.com/live/rx1/1048/1fca2f643298a4e188bbe00ad6d7b60e/index.m3u8
 TVB 功夫台,https://z02.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb617/index.m3u8
 18台,https://z02.ubtvfans.com/live/rx1/44/85341c5f70a65a7ffbe09dae086f1201/index.m3u8
@@ -5476,6 +5478,7 @@ TVBS精采,https://z02.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539
 三立NEWS+,https://z02.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 三立都会台,https://z02.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
 三立戏剧台,https://z02.ubtvfans.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
+年代much,https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
 壹新聞,https://z02.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
 壹新聞,https://z02.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
 壹电影,https://z02.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
@@ -5488,11 +5491,13 @@ TVBS精采,https://z02.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539
 龙祥時代,https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 好莱坞电影,https://z02.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
 美亚电影台,https://z02.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+影迷數位电影,https://z02.ubtvfans.com/live/rx2/497/47e377774e7d0a3ce07f99ff309032a4/index.m3u8
 影迷数位电影,https://z02.ubtvfans.com/live/rx1/2800/ef6238cba73f29e9ef691633c1eaf4d2/index.m3u8
 AXN臺灣,https://z02.ubtvfans.com/live/rx1/2816/234280df0cd47c152708748c0ec2363e/index.m3u8
 AXN亞洲,https://z02.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 CineMAX,https://z02.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 HBO,https://z02.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+HBO－Hits,https://z02.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
 HBO-Signature,https://z02.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8
 緯來電影,https://z02.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
 緯來日本,https://z02.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
@@ -5512,6 +5517,10 @@ HBO-Signature,https://z02.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df4729
 亞洲旅遊台,https://z02.ubtvfans.com/live/rx1/2299/58692859330d6fa6bbb2011e53779f57/index.m3u8
 探索頻道,https://z02.ubtvfans.com/live/rx1/1035/0081cba3900d45c5a31c20b53ef72e28/index.m3u8
 法國時裝,https://z02.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
+視納華仁紀實,https://z02.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
+ELTA娛樂臺,https://z02.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
+ELTA體育3臺,https://z02.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+
 
 V P N 加密频道_2963,#genre#
 香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
