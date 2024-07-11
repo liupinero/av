@@ -5414,16 +5414,6 @@ IHOT,#genre#
 爱动漫,http://ikuai4.zzy789.xyz:6677/udp/239.93.23.239:8736
 
 V P N 频道,#genre#
-中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
-东森新闻,https://www.youtube.com/watch?v=OICoanVJY-Y
-东森财经新闻,https://www.youtube.com/watch?v=_cvZKoET6Fw
-东森LIVE,https://www.youtube.com/watch?v=V1p33hqPrUk
-环宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
-三立NEWS+,https://www.youtube.com/watch?v=NCRhiay78As
-台视新闻,https://www.youtube.com/watch?v=lPnV2ZAC5-w
-TVBS HD,https://www.youtube.com/watch?v=o_-hSMgpAzs
-TVBS新闻台,https://www.youtube.com/watch?v=DC3H2cGrRW4
-
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
