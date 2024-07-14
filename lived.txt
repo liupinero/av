@@ -3588,8 +3588,8 @@ i成都,http://118.114.222.202:8888/udp/239.93.1.104:1234
 
 四川新闻,http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
 四川影视文艺,http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-四川文化旅游,http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
-四川经济,http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
+四川文化旅游,http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
+四川经济,http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
 四川乡村,http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
 四川妇女儿童,http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
 川网导视,http://58.223.166.16/live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8
