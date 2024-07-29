@@ -5574,6 +5574,7 @@ V P N 加密频道_2963,#genre#
 香蕉台,https://z02.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
 彩虹E,https://z02.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
 K频道,https://z02.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+松视1,http://z3.ubtvfans.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8
 惊艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 潘多拉,http://18.svi-studio.com:8880/live/908957700097/132663288386/3.m3u8
 松视1,http://18.svi-studio.com:8880/live/908957700097/132663288386/5.m3u8
