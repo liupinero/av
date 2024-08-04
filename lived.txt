@@ -477,12 +477,12 @@ CHC家庭影院,http://1.lexlong.top:8001/udp/239.112.205.205:5140
 东森电影,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-movie$支持电信
 东森洋片,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-emovie$支持电信
 纬来电影,http://cdn9.1678520.xyz/xsj2.1.php?id=videoland-movie$支持电信
-靖天电影台,https://cdn9.1678520.xyz/xsj2.1.php?id=jtdy$支持电信
+靖天电影台,http://cdn9.1678520.xyz/xsj2.1.php?id=jtdy$支持电信
 龙祥电影,http://cdn9.1678520.xyz/xsj2.1.php?id=lstime$支持电信
-龙华电影,https://cdn9.1678520.xyz/xsj2.1.php?id=ltv-movies$支持电信
+龙华电影,http://cdn9.1678520.xyz/xsj2.1.php?id=ltv-movies$支持电信
 美亚电影台,http://cdn9.1678520.xyz/xsj2.1.php?id=meiah-movies$支持电信
 AXN,http://cdn9.1678520.xyz/xsj2.1.php?id=axn$支持电信
-HBO,https://cdn9.1678520.xyz/xsj2.1.php?id=Now-HBO
+HBO,http://cdn9.1678520.xyz/xsj2.1.php?id=Now-HBO
 HBO,http://cdn9.1678520.xyz/xsj2.1.php?id=hbo-hd$支持电信
 HBO Signature,http://cdn9.1678520.xyz/xsj2.1.php?id=hbo-signature$支持电信
 HBO Hits,http://cdn9.1678520.xyz/xsj2.1.php?id=hbo-hits-hd$支持电信
