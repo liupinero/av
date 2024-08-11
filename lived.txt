@@ -5642,7 +5642,7 @@ TVBS-NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 EF运通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 
-凤凰卫视,https://z02.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+凤凰卫视,https://z3.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
 凤凰资讯,https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
 凤凰香港台,https://z02.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
 翡翠台,https://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
@@ -5784,10 +5784,10 @@ CI罪案偵查,https://z02.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822fa
 V P N 加密频道_2963,#genre#
 香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
 惊艳台,http://125.227.210.55:8156/VideoInput/play.ts
-花花公子,https://z02.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-香蕉台,https://z02.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-彩虹E,https://z02.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-K频道,https://z02.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+花花公子,https://z3.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+香蕉台,https://z3.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
+彩虹E,https://z3.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+K频道,https://z3.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
 松视1,http://z3.ubtvfans.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8
 惊艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 潘多拉,http://18.svi-studio.com:8880/live/908957700097/132663288386/3.m3u8
