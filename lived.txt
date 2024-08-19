@@ -529,7 +529,7 @@ AXN,https://mytv.btjson.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 
-港 澳 台(8.16 已更新),#genre#
+港 澳 台(8.19 已更新),#genre#
 凤凰卫视,http://60.178.151.215:4022/udp/233.50.202.35:5140$浙江电信
 凤凰资讯,http://60.178.151.215:4022/udp/233.50.202.36:5140$浙江电信
 凤凰卫视,http://119.4.229.69:8888/udp/239.93.0.162:2192$成都联通
@@ -578,7 +578,7 @@ TVBS欢乐台,http://23.26.147.19:1258/proxy/Smartv.php?id=tvbshuanle_twn
 东森电影,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvmovie
 东森戏剧,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvdrama
 东森超视,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvsuper
-环宇新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=huanyuxinwen_twn
+环宇新闻台,http://23.26.147.19:1258/proxy/Smartv.php?id=huanyuxinwen_twn
 壹新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=yinews
 非凡新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=feifannews_twn
 年代新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=niandainews_twn
@@ -600,7 +600,12 @@ TVBS欢乐台,http://23.26.147.19:1258/proxy/Smartv.php?id=tvbshuanle_twn
 纬来日本,http://23.26.147.19:1258/proxy/Smartv.php?id=videolandjapan
 緯來體育,http://23.26.147.19:1258/proxy/Smartv.php?id=videolandsport
 EYE戏剧,http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvxiju_twn
+EYE旅游台,http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvtravel_twn
 爱尔达影剧,http://23.26.147.19:1258/proxy/Smartv.php?id=eltayingju_twn
+华艺综合台,http://23.26.147.19:1258/proxy/Smartv.php?id=weishichinese_twn
+动物星球,http://23.26.147.19:1258/proxy/Smartv.php?id=animalplanet_twn
+国家地理,http://23.26.147.19:1258/proxy/Smartv.php?id=natgeohd_twn
+探索亚洲,http://23.26.147.19:1258/proxy/Smartv.php?id=discoverytwn_twn
 
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
