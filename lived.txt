@@ -484,7 +484,7 @@ amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 东森洋片,http://test.zapi.us.kg/?id=ebc-emovie$支持电信
 纬来电影,http://test.zapi.us.kg/?id=videoland-movie$支持电信
 靖天电影台,https://test.zapi.us.kg/?id=jtdy$支持电信
-龙祥电影,http://test.zapi.us.kg/?id=lstime$支持电信
+龙祥時代,http://test.zapi.us.kg/?id=lstime$支持电信
 龙华电影,https://test.zapi.us.kg/?id=ltv-movies$支持电信
 美亚电影台,http://test.zapi.us.kg/?id=meiah-movies$支持电信
 影迷数字电影台,http://test.zapi.us.kg/?id=fans-cinema
@@ -498,12 +498,12 @@ amc 最爱电影,http://test.zapi.us.kg/?id=amc-movie
 靖天电影台,http://37.27.111.214:8080/live/18/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 
-TVB星河,http://171.108.239.79:8181/tsfile/live/1005_1.m3u8
-天映经典,http://171.108.239.79:8181/tsfile/live/1009_1.m3u8
-东森电影,http://171.108.239.79:8181/tsfile/live/1010_1.m3u8
-东森洋片,http://171.108.239.79:8181/tsfile/live/1016_1.m3u8
-龙祥時代,http://171.108.239.79:8181/tsfile/live/1011_1.m3u8
-私人影院,http://171.108.239.79:8181/tsfile/live/1014_1.m3u8
+TVB星河,http://171.108.239.115:8181/tsfile/live/1005_1.m3u8
+天映经典,http://171.108.239.115:8181/tsfile/live/1009_1.m3u8
+东森电影,http://171.108.239.115:8181/tsfile/live/1010_1.m3u8
+东森洋片,http://171.108.239.115:8181/tsfile/live/1016_1.m3u8
+龙祥時代,http://171.108.239.115:8181/tsfile/live/1011_1.m3u8
+私人影院,http://171.108.239.115:8181/tsfile/live/1014_1.m3u8
 
 天映经典,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-12
 美亚电影台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-11
@@ -514,7 +514,7 @@ AXN,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=axn
 东森电影,http://php.jdshipin.com:8880/xsj.php?id=ebc-movie
 东森洋片,http://php.jdshipin.com:8880/xsj.php?id=ebc-emovie
 好莱坞电影,http://php.jdshipin.com:8880/xsj.php?id=hollywood-movie
-龙祥电影,http://php.jdshipin.com:8880/xsj.php?id=lstime
+龙祥時代,http://php.jdshipin.com:8880/xsj.php?id=lstime
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 AXN,http://php.jdshipin.com:8880/xsj.php?id=axn
 HBO,http://php.jdshipin.com:8880/xsj.php?id=hbo-hd
@@ -522,11 +522,6 @@ HBO Signature,http://php.jdshipin.com:8880/xsj.php?id=hbo-signature
 HBO Hits,http://php.jdshipin.com:8880/xsj.php?id=hbo-hits-hd
 
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-
-HBO Hits,https://mytv.btjson.us.kg/stream/tvb/null-30/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-HBO Family,https://mytv.btjson.us.kg/stream/tvb/nowhbofamily/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-HBO Signature,https://mytv.btjson.us.kg/stream/tvb/nowhboSignature/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-AXN,https://mytv.btjson.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
