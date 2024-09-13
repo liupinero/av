@@ -571,6 +571,7 @@ TVBS欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
 镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 寰宇新闻台,https://litv.zapi.us.kg/?id=litv-longturn14
 寰宇新闻台湾台,https://litv.zapi.us.kg/?id=litv-longturn15
+寰宇财经台,https://gat.zhoujie218.top/litv/litv-longturn23
 龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
 龙华戏剧,https://litv.zapi.us.kg/?id=litv-longturn18
 龙华偶像,https://litv.zapi.us.kg/?id=litv-longturn12
