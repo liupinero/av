@@ -1941,17 +1941,17 @@ ICS外语,http://www.17888.fun:10000/udp/239.45.1.127:5140$源6
 江西IPTV,http://www.lizhinas.top:1009/udp/239.252.219.188:5140$源1-电信
 陶瓷,http://http://www.lizhinas.top:1009/udp/239.252.220.243:5140$源1-电信
 
-江西卫视,http://gzly.hkychina.com:6001/udp/239.252.220.63:5140$源2-电信
-江西都市,http://gzly.hkychina.com:6001/udp/239.252.220.238:5140$源2-电信
-江西经济生活,http://gzly.hkychina.com:6001/udp/239.252.219.173:5140$源2-电信
-江西影视旅游,http://gzly.hkychina.com:6001/udp/239.252.220.242:5140$源2-电信
-江西公共农业,http://gzly.hkychina.com:6001/udp/239.252.220.102:5140$源2-电信
-江西少儿,http://gzly.hkychina.com:6001/udp/239.252.219.113:5140$源2-电信
-江西新闻,http://gzly.hkychina.com:6001/udp/239.252.220.100:5140$源2-电信
-江西教育,http://gzly.hkychina.com:6001/udp/239.252.219.115:5140$源2-电信
-江西移动,http://gzly.hkychina.com:6001/udp/239.252.220.241:5140$源2-电信
-江西IPTV,http://gzly.hkychina.com:6001/udp/239.252.219.188:5140$源2-电信
-陶瓷,http://gzly.hkychina.com:6001/udp/239.252.220.243:5140$源2-电信
+江西卫视,http://www.lizhinas.top:1009/udp/239.252.220.63:5140$源2-电信
+江西都市,http://www.lizhinas.top:1009/udp/239.252.220.238:5140$源2-电信
+江西经济生活,http://www.lizhinas.top:1009/udp/239.252.219.173:5140$源2-电信
+江西影视旅游,http://www.lizhinas.top:1009/udp/239.252.220.242:5140$源2-电信
+江西公共农业,http://www.lizhinas.top:1009/udp/239.252.220.102:5140$源2-电信
+江西少儿,http://www.lizhinas.top:1009/udp/239.252.219.113:5140$源2-电信
+江西新闻,http://www.lizhinas.top:1009/udp/239.252.220.100:5140$源2-电信
+江西教育,http://www.lizhinas.top:1009/udp/239.252.219.115:5140$源2-电信
+江西移动,http://www.lizhinas.top:1009/udp/239.252.220.241:5140$源2-电信
+江西IPTV,http://www.lizhinas.top:1009/udp/239.252.219.188:5140$源2-电信
+陶瓷,http://www.lizhinas.top:1009/udp/239.252.220.243:5140$源2-电信
 
 江西卫视,http://gzly.hkychina.com:6003/udp/239.252.220.63:5140$源3-电信
 江西都市,http://gzly.hkychina.com:6003/udp/239.252.220.238:5140$源3-电信
