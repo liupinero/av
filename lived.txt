@@ -617,6 +617,27 @@ SMART,https://litv.zapi.us.kg/?id=litv-longturn19
 CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立NEWS+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+寰宇新闻台https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇财经台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+EF运通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大电视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+国会频道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
 民视,http://37.27.111.214:8080/live/6/hls.m3u8
