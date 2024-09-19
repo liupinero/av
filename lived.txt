@@ -476,24 +476,6 @@ CHC影迷电影,http://58.19.240.68:888/udp/228.0.0.233:6108$湖北联通
 CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 
-天映频道,http://test.zapi.us.kg/?id=celestial$支持电信
-天映经典,http://test.zapi.us.kg/?id=cccm$支持电信
-好莱坞电影,http://test.zapi.us.kg/?id=hollywood-movie$支持电信
-东森电影,http://test.zapi.us.kg/?id=ebc-movie$支持电信
-东森洋片,http://test.zapi.us.kg/?id=ebc-emovie$支持电信
-纬来电影,http://test.zapi.us.kg/?id=videoland-movie$支持电信
-靖天电影台,https://test.zapi.us.kg/?id=jtdy$支持电信
-龙祥時代,http://test.zapi.us.kg/?id=lstime$支持电信
-龙华电影,https://test.zapi.us.kg/?id=ltv-movies$支持电信
-美亚电影台,http://test.zapi.us.kg/?id=meiah-movies$支持电信
-影迷数字电影台,http://test.zapi.us.kg/?id=fans-cinema
-AXN,http://test.zapi.us.kg/?id=axn$支持电信
-HBO,https://test.zapi.us.kg/?id=Now-HBO
-HBO,http://test.zapi.us.kg/?id=hbo-hd$支持电信
-HBO Signature,http://test.zapi.us.kg/?id=hbo-signature$支持电信
-HBO Hits,http://test.zapi.us.kg/?id=hbo-hits-hd$支持电信
-amc 最爱电影,http://test.zapi.us.kg/?id=amc-movie
-
 靖天电影台,http://37.27.111.214:8080/live/18/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 
@@ -660,8 +642,8 @@ EF运通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 TVBS HD,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
-环宇新闻台湾台,http://37.27.111.214:8080/live/63/hls.m3u8
-环宇财经台,http://37.27.111.214:8080/live/65/hls.m3u8
+寰宇新闻台湾台,http://37.27.111.214:8080/live/63/hls.m3u8
+寰宇财经台,http://37.27.111.214:8080/live/65/hls.m3u8
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
 公视戏剧,http://37.27.111.214:8080/live/87/hls.m3u8
 三立综合台,http://37.27.111.214:8080/live/31/hls.m3u8
@@ -674,82 +656,6 @@ ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
 博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8
 智林体育台,http://37.27.111.214:8080/live/77/hls.m3u8
-
-凤凰卫视,http://test.zapi.us.kg/?id=phtv-cn$支持电信
-凤凰资讯,http://test.zapi.us.kg/?id=phtv-info$支持电信
-凤凰香港台,http://test.zapi.us.kg/?id=phtv-hk$支持电信
-无线新闻台,http://test.zapi.us.kg/?id=tvb-news$支持电信
-翡翠台,http://test.zapi.us.kg/?id=feicui$支持电信
-J2,http://test.zapi.us.kg/?id=j2$支持电信
-HKC 18台,http://test.zapi.us.kg/?id=hkc18
-RTHK31,https://test.zapi.us.kg/?id=rthk31
-RTHK32,https://test.zapi.us.kg/?id=rthk32
-HOY 资讯台,http://test.zapi.us.kg/?id=hoy-info$支持电信
-Now 直播台,http://test.zapi.us.kg/?id=now-direct$支持电信
-Now 新闻台,http://test.zapi.us.kg/?id=now-news$支持电信
-Now 财经台,http://test.zapi.us.kg/?id=now-finance$支持电信
-Now 爆谷台,http://test.zapi.us.kg/?id=baogu-movies$支持电信
-Now 星影台,http://test.zapi.us.kg/?id=now-baogu-superstars$支持电信
-Now Sports精选,http://test.zapi.us.kg/?id=now-sports-prime$支持电信
-Now 华剧台,http://test.zapi.us.kg/?id=now-chinese-drama$支持电信
-黄金翡翠台,http://test.zapi.us.kg/?id=golden-jade$支持电信
-亚洲剧台,http://test.zapi.us.kg/?id=tvb-asia-drama$支持电信
-粤语片台,http://test.zapi.us.kg/?id=tvb-yueyu$支持电信
-华语剧台,http://test.zapi.us.kg/?id=tvb-drama$支持电信
-Astro 爱奇艺,http://test.zapi.us.kg/?id=astro-iqiyi$支持电信
-Astro AOD,http://test.zapi.us.kg/?id=astro-aod$支持电信
-千禧经典台,http://test.zapi.us.kg/?id=tvb-classic$支持电信
-TVBS台剧台,http://test.zapi.us.kg/?id=tvbs-taiju$支持电信
-TVBS亚洲,http://test.zapi.us.kg/?id=tvbs-asia$支持电信
-TVBS HD,http://test.zapi.us.kg/?id=tvbs-hd$支持电信
-TVBS新闻台,http://test.zapi.us.kg/?id=tvbs-news$支持电信
-TVBS综艺台,http://test.zapi.us.kg/?id=tvbs-zongyi$支持电信
-TVBS欢乐台,http://test.zapi.us.kg/?id=tvbs-huanle$支持电信
-中天新闻,http://test.zapi.us.kg/?id=cti-news$支持电信
-中天综合,http://test.zapi.us.kg/?id=ctitv36$支持电信
-中天娱乐,http://test.zapi.us.kg/?id=cti-yule$支持电信
-中天亚洲台,http://test.zapi.us.kg/?id=cti-asia$支持电信
-公视台语台,https://test.zapi.us.kg/?id=pts-ty
-台视,https://test.zapi.us.kg/?id=ttv
-台视新闻,https://test.zapi.us.kg/?id=ttv-news
-中视,http://test.zapi.us.kg/?id=ctv$支持电信
-中视新闻,http://test.zapi.us.kg/?id=ctv-news$支持电信
-中视经典台,http://test.zapi.us.kg/?id=ctv-classic$支持电信
-东森综合,http://test.zapi.us.kg/?id=ebc-ettv$支持电信
-东森LIVE,http://test.zapi.us.kg/?id=ebc-news$支持电信
-东森财经新闻,http://test.zapi.us.kg/?id=ebc-finance$支持电信
-东森戏剧,http://test.zapi.us.kg/?id=ebc-drama$支持电信
-东森超视,http://test.zapi.us.kg/?id=ebc-super$支持电信
-东森幼幼,https://test.zapi.us.kg/?id=ebc-yoyo$支持电信
-非凡新闻,http://test.zapi.us.kg/?id=unique-business-news$支持电信
-年代新闻,http://test.zapi.us.kg/?id=era-news$支持电信
-龙华戏剧,http://test.zapi.us.kg/?id=ltv-xiju$支持电信
-龙华日韩,http://test.zapi.us.kg/?id=ltv-rihan$支持电信
-三立NEWS+,http://test.zapi.us.kg/?id=settv-news$支持电信
-三立iNews,http://test.zapi.us.kg/?id=settv-inews$支持电信
-三立台湾台,http://test.zapi.us.kg/?id=settv-taiwan$支持电信
-三立都会台,http://test.zapi.us.kg/?id=settv-city$支持电信
-三立戏剧台,http://test.zapi.us.kg/?id=settv-drama$支持电信
-环宇新闻台,http://test.zapi.us.kg/?id=global-news$支持电信
-壹新闻,http://test.zapi.us.kg/?id=nexttv$支持电信
-八大娱乐,http://test.zapi.us.kg/?id=gtv-86$支持电信
-八大精彩台,https://test.zapi.us.kg/?id=gtv-jct
-民视,http://test.zapi.us.kg/?id=ftv$支持电信
-民视新闻台,http://test.zapi.us.kg/?id=ftv-news$支持电信
-民视第一台,http://test.zapi.us.kg/?id=ftv-one$支持电信
-民视影剧,http://test.zapi.us.kg/?id=ftv-drama$支持电信
-民视台湾台,https://test.zapi.us.kg/?id=ftv-tw$支持电信
-民视综艺,https://test.zapi.us.kg/?id=ftv-reality$支持电信
-民视旅游,https://test.zapi.us.kg/?id=ftv-travel$支持电信
-Astro AOD 国语,http://test.zapi.us.kg/?id=astro-aod$支持电信
-欢喜台,http://test.zapi.us.kg/?id=astro-huaheedai$支持电信
-爱奇艺,http://test.zapi.us.kg/?id=astro-iqiyi$支持电信
-Astro AEC,http://test.zapi.us.kg/?id=astro-aec$支持电信
-Astro QJ,https://test.zapi.us.kg/?id=astro-quanjia
-ELTA 体育-1,http://test.zapi.us.kg/?id=elta-sport1$支持电信
-ELTA 体育-2,http://test.zapi.us.kg/?id=elta-sport2$支持电信
-ELTA 体育-3,http://test.zapi.us.kg/?id=elta-sport3$支持电信
-ELTA 体育-4,http://test.zapi.us.kg/?id=elta-sport4$支持电信
 
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
@@ -3415,9 +3321,13 @@ IPTV高清院线,http://223.144.160.178:58888/udp/239.76.252.217:9000$源6-电�
 涉县综合,http://60.7.56.50:4000/udp/239.253.93.106:6273$源5-联通
 
 隆化电视,http://live.cztv.cc:85/live/xwpd.m3u8
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
-邯郸新闻综合,http://live.hd.hdbs.cn/video/s10001-2021hdxwzh/index.m3u8
-邯郸科技教育,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd
+鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+
+邯郸新闻综合,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+丰宁综合,https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
+
 
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
