@@ -5691,6 +5691,7 @@ NewTV,#genre#
 精品体育,http://home.isvvv.com:5050/itv/ystenlive/1000000004000014634
 精品萌宠,http://home.isvvv.com:5050/itv/ystenlive/1000000006000032328
 爱情喜剧,http://home.isvvv.com:5050/itv/hnbblive/2000000003000000010
+超级电视剧,http://home.isvvv.com:5050/itv/ystenlive/1000000006000268003
 超级电影,http://home.isvvv.com:5050/itv/ystenlive/1000000003000012426
 超级体育,http://home.isvvv.com:5050/itv/ystenlive/1000000001000009601
 超级综艺,http://home.isvvv.com:5050/itv/ystenlive/1000000006000268002
