@@ -5703,6 +5703,26 @@ IHOT,#genre#
 爱赛车,http://xeace.cn:8888/udp/239.93.42.20:5140
 爱宠物,http://xeace.cn:8888/udp/239.93.42.32:5140
 
+爱电竞,http://home.isvvv.com:5050/itv/wasusyt/6000000006000230630
+爱谍战,http://home.isvvv.com:5050/itv/wasusyt/6000000006000070630
+爱动漫,http://home.isvvv.com:5050/itv/wasusyt/6000000006000280630
+爱都市,http://home.isvvv.com:5050/itv/wasusyt/6000000006000080630
+爱怀旧,http://home.isvvv.com:5050/itv/wasusyt/6000000006000260630
+爱经典,http://home.isvvv.com:5050/itv/wasusyt/6000000006000060630
+爱科幻,http://home.isvvv.com:5050/itv/wasusyt/6000000006000020630
+爱科学,http://home.isvvv.com:5050/itv/wasusyt/6000000006000160630
+爱浪漫,http://home.isvvv.com:5050/itv/wasusyt/6000000006000040630
+爱历史,http://home.isvvv.com:5050/itv/wasusyt/6000000006000150630
+爱奇谈,http://home.isvvv.com:5050/itv/wasusyt/6000000006000270630
+爱青春,http://home.isvvv.com:5050/itv/wasusyt/6000000006000100630
+爱赛车,http://home.isvvv.com:5050/itv/wasusyt/6000000006000240630
+爱体育,http://home.isvvv.com:5050/itv/wasusyt/6000000006000290630
+爱玩具,http://home.isvvv.com:5050/itv/wasusyt/6000000006000220630
+爱喜剧,http://home.isvvv.com:5050/itv/wasusyt/6000000006000010630
+爱悬疑,http://home.isvvv.com:5050/itv/wasusyt/6000000006000050630
+爱幼教,http://home.isvvv.com:5050/itv/wasusyt/6000000006000180630
+爱院线,http://home.isvvv.com:5050/itv/wasusyt/6000000006000030630
+
 爱喜剧,http://ikuai4.zzy789.xyz:6677/udp/239.93.23.225:8500
 爱科幻,http://ikuai4.zzy789.xyz:6677/udp/239.93.23.226:8568
 爱院线,http://ikuai4.zzy789.xyz:6677/udp/239.93.23.227:8572
