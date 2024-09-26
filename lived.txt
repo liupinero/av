@@ -1854,8 +1854,12 @@ ICS外语,http://116.234.196.76:58888/udp/239.45.1.127:5140$源6
 江西IPTV,http://111.73.20.252:1009/udp/239.252.219.188:5140$源4-电信
 陶瓷,http://111.73.20.252:1009/udp/239.252.220.243:5140$源4-电信
 
+九江新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8
+九江公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8
+九江教育,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8
 上饶综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
 上饶经济,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
+井冈山综合http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 赣州新闻综合,http://119.167.129.46/wb.jxgztv.com/live/gztv1.m3u8
 赣州公共,http://119.167.129.46/wb.jxgztv.com/live/gztv2.m3u8
 赣州教育,http://119.167.129.46/wb.jxgztv.com/live/gztv3.m3u8
