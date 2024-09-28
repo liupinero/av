@@ -1754,6 +1754,16 @@ ICS外语,http://116.234.196.76:58888/udp/239.45.1.127:5140$源6
 三沙卫视,http://119.41.170.197:4000/rtp/239.253.64.112:5140$源2-电信
 
 江西地方台,#genre#
+江西卫视,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8$官网
+江西都市,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8$官网
+江西经济生活,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8$官网
+江西影视旅游,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8$官网
+江西公共农业,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8$官网
+江西少儿,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8$官网
+江西新闻,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8$官网
+江西移动,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8$官网
+陶瓷,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8$官网
+
 江西卫视,http://111.73.22.140:8688/udp/239.252.220.63:5140$源1-电信
 江西都市,http://111.73.22.140:8688/udp/239.252.220.238:5140$源1-电信
 江西经济生活,http://111.73.22.140:8688/udp/239.252.219.173:5140$源1-电信
