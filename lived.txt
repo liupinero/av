@@ -3332,7 +3332,7 @@ IPTV高清院线,http://223.144.160.131:58888/udp/239.76.252.217:9000$源6-电�
 
 隆化电视,http://live.cztv.cc:85/live/xwpd.m3u8
 鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
-
+永清综合,http://60.10.203.69:8000/0.m3u8
 邯郸新闻综合,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
@@ -3700,6 +3700,8 @@ i成都,http://171.213.130.226:7000/udp/239.93.1.104:1234$源2-电信
 达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
 达州通川频道,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 大竹新闻综合,https://lmt.dazhutv.com/live1/live1.m3u8
+双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 
 四川新闻http://58.215.231.35/live3.ngaacdn.sc96655.com/live/SCTV-4H265_4000.m3u8
 四川影视文艺http://58.215.231.35/live3.ngaacdn.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
@@ -3850,23 +3852,6 @@ i成都,http://171.213.130.226:7000/udp/239.93.1.104:1234$源2-电信
 眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
 攀枝花公共,http://zb.pzhgd.com:9095/live/ggpd.m3u8?zsicd
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8?zsicd
-绵阳新闻综合,http://dcpull.sctvcloud.com/live/561946fe018810006da7ce2500000000/playlist.m3u8
-绵阳科教生活,http://dcpull.sctvcloud.com/live/561b1c7301881000f40c8eec00000000/playlist.m3u8
-冕宁新闻,http://dcpull.sctvcloud.com/live/4ba9636d0188100015bb609900000000/playlist.m3u8
-阿坝州综合,http://dcpull.sctvcloud.com/live/522fab2601881000cd142f2900000000/playlist.m3u8
-阿坝州文艺,http://dcpull.sctvcloud.com/live/52304cbd0188100059040d3700000000/playlist.m3u8
-隆昌新闻综合,http://dcpull.sctvcloud.com/live/4ca800e6018810009ae74b0700000000/playlist.m3u8
-盐边综合,http://dcpull.sctvcloud.com/live/56d8916b01881000728a297500000000/playlist.m3u8
-丹棱新闻综合,http://dcpull.sctvcloud.com/live/51f08e62018810000b2562ab00000000/playlist.m3u8
-昭觉综合,http://dcpull.sctvcloud.com/live/4bb3c2bd01881000e843b73a00000000/playlist.m3u8
-安州综合,http://dcpull.sctvcloud.com/live/55e5d1eb018810004d91cf1700000000/playlist.m3u8
-旌阳综合,http://dcpull.sctvcloud.com/live/4b80cb7d018810007ce85c0800000000/playlist.m3u8
-九寨沟新闻综合,http://dcpull.sctvcloud.com/live/55bea43601881000b9f8373000000000/playlist.m3u8
-蓬溪新闻综合,http://dcpull.sctvcloud.com/live/4bc4d2d601881000ca7f990c00000000/playlist.m3u8
-通江新闻综合,http://dcpull.sctvcloud.com/live/04ea69fa018910006ae9ef0600000000/playlist.m3u8
-平武综合,http://dcpull.sctvcloud.com/live/573e43720188100019fdb4ed00000000/playlist.m3u8
-梓潼新闻综合,http://dcpull.sctvcloud.com/live/5759a6e901881000b2f01db200000000/playlist.m3u8
-昭觉综合频道,http://dcpull.sctvcloud.com/live/4bb3c2bd01881000e843b73a00000000/playlist.m3u8
 
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 乐至综合,http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
@@ -4069,6 +4054,7 @@ i成都,http://171.213.130.226:7000/udp/239.93.1.104:1234$源2-电信
 铜仁综合,http://qhjx.top:18000/udp/238.255.2.218:5999$贵州电信2
 雷山综合,http://qhjx.top:18000/udp/238.255.2.128:5999$贵州电信2
 
+松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 七星关电视台,https://p8.vzan.com/slowlive/147077707554082780/live.m3u8#https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 
 云南地方台,#genre#
@@ -4157,6 +4143,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 曲靖一套,http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8#rtmp://tv.qjrb.cn/channellive/ch1
 曲靖二套,http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8#rtmp://tv.qjrb.cn/channellive/ch2
 曲靖三套,http://channel.qjrb.cn/nmip-media/channellive/channel127550/playlist.m3u8#rtmp://tv.qjrb.cn/channellive/ch3
+新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund
 
 重庆地方台,#genre#
 重庆卫视,http://125.80.207.127:5555/udp/235.254.196.249:1268$源1-电信
@@ -4280,6 +4267,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8
+潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 
 山东地方台,#genre#
 山东新闻,http://119.166.31.243:1026/udp/239.253.254.23:8000$青岛联通
@@ -5231,6 +5219,10 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 海东综合,http://lovegfs.top:8000/udp/239.120.1.102:8328
 海北综合,http://lovegfs.top:8000/udp/239.120.1.123:8266
 
+都兰综合,https://livecdn.dmqhyadmin.com/hls/xjdulan.m3u8
+湟中电视台,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
 果洛综合,http://111.44.214.34:8066/0.m3u8
 海东综合,https://tv.hdhhy.cn/live/hdtv.m3u8
 
@@ -5367,6 +5359,8 @@ YZTV,http://42.92.117.218:8888/udp/239.255.30.175:8231$源2-电信
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 
 新疆地方台,#genre#
 新疆卫视,http://110.157.221.225:8088/udp/238.125.3.174:5140$源1－电信
