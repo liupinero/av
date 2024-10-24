@@ -496,23 +496,6 @@ TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3
 
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
-港澳台(流畅频道),#genre#
-凤凰卫视,https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港台,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-无线新闻台,https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-明珠台,https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-娱乐新闻台,https://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-TVB,https://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-1,https://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-中天新闻,https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天亚洲台,https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-环宇新闻台,https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-中视新闻,https://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-华视新闻,https://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-三立综合台,https://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-三立iNEWS,https://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-靖天电影台,https://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
 港 澳 台,#genre#
 凤凰卫视,http://60.178.149.113:4022/udp/233.50.202.35:5140$浙江电信
