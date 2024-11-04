@@ -103,6 +103,10 @@ NBTV-4,http://[2409:8087:2806:21:100::26]/wh7f454c46tw998561075_-1181698597/hwlt
 Movie,http://[2409:8087:280c:23::3a]/wh7f454c46tw2378956469_-497977238/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8?
 潮妈辣婆,http://[2409:8087:280c:23::3a]/wh7f454c46tw2378956469_-497977238/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8?
 动作电影,http://[2409:8087:280c:23::3a]/wh7f454c46tw2378956469_-497977238/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8?
+中国功夫,http://[2409:8087:280c:23::3a]/wh7f454c46tw2378956469_-497977238/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8?
+怡伴健康,http://[2409:8087:280c:23::3a]/wh7f454c46tw2378956469_-497977238/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236220/index.m3u8?
+爱情喜剧,http://[2409:8087:280c:23::3a]/wh7f454c46tw2378956469_-497977238/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8?
+欢乐剧场,http://[2409:8087:280c:23::3a]/wh7f454c46tw2378956469_-497977238/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/index.m3u8?
 
 IPV6专区,#genre#
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
