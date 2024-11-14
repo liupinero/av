@@ -5429,14 +5429,15 @@ YZTV,http://60.164.128.167:8029/udp/239.255.30.175:8231$源2-电信
 运城公共,http://223.10.13.63:8082/udp/239.1.1.124:8124$源1-电信
 盐湖频道,http://223.10.13.63:8082/udp/239.1.1.125:8125$源1-电信
 
-山西卫视,http://60.220.167.234:8085/rtp/226.0.1.85:2001$源2-联通
-山西社会与法治,http://60.220.167.234:8085/rtp/226.0.1.83:2005$源2-联通
-山西经济与科技,http://60.220.167.234:8085/rtp/226.0.1.81:2003$源2-联通
-山西文体生活,http://60.220.167.234:8085/rtp/226.0.1.200:2006$源2-联通
-山西影视,http://60.220.167.234:8085/rtp/226.0.1.82:2004$源2-联通
-山西黄河,http://60.220.167.234:8085/rtp/226.0.1.84:2002$源2-联通
-清徐,http://60.220.167.234:8085/rtp/226.0.2.191:9440$源2-联通
-大同教育,http://60.220.167.234:8085/rtp/226.0.2.232:9772$源2-联通
+山西卫视,http://60.220.167.23:8085/rtp/226.0.1.85:2001$源2-联通
+山西社会与法治,http://60.220.167.23:8085/rtp/226.0.1.83:2005$源2-联通
+山西经济与科技,http://60.220.167.23:8085/rtp/226.0.1.81:2003$源2-联通
+山西文体生活,http://60.220.167.23:8085/rtp/226.0.1.200:2006$源2-联通
+山西影视,http://60.220.167.23:8085/rtp/226.0.1.82:2004$源2-联通
+山西黄河,http://60.220.167.23:8085/rtp/226.0.1.84:2002$源2-联通
+清徐,http://60.220.167.23:8085/rtp/226.0.2.191:9440$源2-联通
+大同教育,http://60.220.167.23:8085/rtp/226.0.2.232:9772$源2-联通
+
 
 山西卫视,http://223.10.4.128:8083/udp/239.1.1.1:8001$源3-电信
 山西社会与法治,http://223.10.4.128:8083/udp/239.1.1.5:8005$源3-电信
@@ -6151,17 +6152,17 @@ CI罪案偵查,https://z02.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822fa
 🔞新增 11http://31.42.185.54:8880/ALLChannelsc46e0000b8dc/pMbOA3yzqcEtpcIt/33098
 🔞新增 12http://31.42.185.54:8880/ALLChannelsc46e0000b8dc/pMbOA3yzqcEtpcIt/33083
 
-Playboy,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/527/index.m3u8
-HUSTLER HD,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/244/index.m3u8
-DORCEL TV,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/245/index.m3u8
-VIVIDRED HD,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/2162/index.m3u8
-EXXXOTICA HD,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/2397/index.m3u8
+Playboy,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/527/index.m3u8
+HUSTLER HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/244/index.m3u8
+DORCEL TV,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/245/index.m3u8
+VIVIDRED HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/2162/index.m3u8
+EXXXOTICA HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/2397/index.m3u8
 PENTHOUSE PASS,http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/5010/index.m3u8
-PENTHOUSE,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/5011/index.m3u8
-PENTHOUSE2,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/5013/index.m3u8
-XY Max HD,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6286/index.m3u8
-XY Mix HD,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6287/index.m3u8
-XY Plus HD,http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6288/index.m3u8
+PENTHOUSE,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/5011/index.m3u8
+PENTHOUSE2,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/5013/index.m3u8
+XY Max HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6286/index.m3u8
+XY Mix HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6287/index.m3u8
+XY Plus HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6288/index.m3u8
 
 Playboy,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/527/index.m3u8
 HUSTLER HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/244/index.m3u8
