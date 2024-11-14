@@ -523,11 +523,13 @@ CHC家庭影院,http://58.19.240.68:888/udp/228.0.0.211:6108$湖北联通
 CHC动作电影,http://58.19.240.68:888/udp/228.0.0.212:6108$湖北联通
 CHC影迷电影,http://58.19.240.68:888/udp/228.0.0.233:6108$湖北联通
 
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
 AMC电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 CATCHPLAY,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 影迷数位电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv011
 
-amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 
 靖天电影台,http://37.27.111.214:8080/live/18/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -585,6 +587,7 @@ TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
 中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv040
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
 中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
@@ -596,6 +599,7 @@ TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
 民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
 民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
+民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07
 镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
@@ -621,11 +625,22 @@ TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 台湾戏剧台,http://litv.zapi.us.kg/?id=litv-longturn22
 八大精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv034
 八大综艺台,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+国会频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv084
+国会频道2,http://litv.zapi.us.kg/?id=4gtv-4gtv085
 爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
 采昌影剧,http://litv.zapi.us.kg/?id=4gtv-4gtv049
 公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
+客家电视,http://litv.zapi.us.kg/?id=4gtv-4gtv043
 視納華仁紀實頻道,http://litv.zapi.us.kg/?id=4gtv-4gtv013
 韩国娱乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+亚洲旅游台,http://litv.zapi.us.kg/?id=litv-longturn17
+博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
+博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯运动1,http://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动2,http://litv.zapi.us.kg/?id=litv-longturn08
+博斯高球1,http://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球2,http://litv.zapi.us.kg/?id=litv-longturn06
+博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
 
 凤凰卫视,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
