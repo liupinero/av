@@ -6435,6 +6435,7 @@ CI罪案偵查,https://z02.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822fa
 🈲Playboy1,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/527/index.m3u8
 🈲Playboy2,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/12135/manifest.m3u8
 🈲Playboy Plus HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6242/manifest.m3u8
+🈲Playboy LA,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6280/manifest.m3u8
 🈲HUSTLER HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/244/index.m3u8
 🈲DORCEL TV,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/245/index.m3u8
 🈲VIVIDRED HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/2162/index.m3u8
@@ -6458,10 +6459,17 @@ CI罪案偵查,https://z02.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822fa
 🈲Lesbea HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6227/manifest.m3u8
 🈲Nubiles TV HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6238/manifest.m3u8
 🈲True Amateurs HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6260/manifest.m3u8
+🈲LEO TV,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6272/manifest.m3u8
+🈲HOT XXL,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6276/manifest.m3u8
+🈲Sexy Hot,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6282/manifest.m3u8
+🈲DUSK,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/12129/manifest.m3u8
+🈲EROX HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/6296/manifest.m3u8
+🈲EXTASY HD,http://88b9da48.kazmazpaz.ru/iptv/ZPXPMR8ASF6NPN/11051/manifest.m3u8
 
 🈲Playboy1,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/527/index.m3u8
 🈲Playboy2,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/12135/manifest.m3u8
 🈲Playboy Plus HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6242/manifest.m3u8
+🈲Playboy LA,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6280/manifest.m3u8
 🈲HUSTLER HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/244/index.m3u8
 🈲DORCEL TV,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/245/index.m3u8
 🈲VIVIDRED HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/2162/index.m3u8
@@ -6485,6 +6493,12 @@ CI罪案偵查,https://z02.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822fa
 🈲Lesbea HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6227/manifest.m3u8
 🈲Nubiles TV HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6238/manifest.m3u8
 🈲True Amateurs HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6260/manifest.m3u8
+🈲LEO TV,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6272/manifest.m3u8
+🈲HOT XXL,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6276/manifest.m3u8
+🈲Sexy Hot,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6282/manifest.m3u8
+🈲DUSK,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/12129/manifest.m3u8
+🈲EROX HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6296/manifest.m3u8
+🈲EXTASY HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/11051/manifest.m3u8
 
 HAPPYTAhttp://61.224.69.212:9088/udp/224.1.4.72:11111
 XIANJIANTAhttp://61.224.69.212:9088/udp/224.1.4.205:11111
