@@ -782,6 +782,10 @@ CHC家庭影院,http://222.90.3.218:8888/udp/239.112.205.205:5140
 CHC影迷电影,http://222.90.3.218:8888/udp/239.112.205.206:5140
 CHC动作电影,http://222.90.3.218:8888/udp/239.112.205.207:5140
 
+CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+
 CHC家庭影院,http://59.55.253.196:6565/rtp/239.252.219.84:5140$江西电信  
 CHC影迷电影,http://59.55.253.196:6565/rtp/239.252.219.83:5140$江西电信    
 CHC动作电影,http://59.55.253.196:6565/rtp/239.252.219.85:5140$江西电信   
